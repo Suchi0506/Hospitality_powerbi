@@ -24,5 +24,10 @@ Created a dashboard according to the mock-up provided by stakeholders.
 ✔ How to add conditional formatting and represent visual increase or decrease in a measure.
 ✔ Cleaning the data and finally analyzing it using various visuals.
 
+![Github logo](https://github.com/Suchi0506/Hospitality_powerbi/blob/main/Image/Hospitality_project.jpg)
+
+
+
+
 
 
